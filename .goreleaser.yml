@@ -1,0 +1,11 @@
+
+build:
+  main: cmd/versent-bless/main.go
+  binary: versent-bless
+  goos:
+    - darwin
+    - linux
+    - windows
+  goarch:
+    - amd64
+    - 386
