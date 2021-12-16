@@ -22,6 +22,14 @@ Commands:
 
 ```
 
+# install
+
+## from source
+
+```shell
+go install github.com/Versent/bless/cmd/versent-bless@latest
+```
+
 # license
 
 This code is released under MIT License.
